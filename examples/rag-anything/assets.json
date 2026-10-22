@@ -1,0 +1,95 @@
+[
+  {
+    "name": "file-pdf-box",
+    "origin": "website original",
+    "source": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/file-pdf-box.svg",
+    "page": "https://pictogrammers.com/library/mdi/icon/file-pdf-box/",
+    "collection": "Pictogrammers Material Design Icons",
+    "license": "Apache-2.0",
+    "modification": "raster conversion; named agent variants recolored to preserve source role mapping",
+    "pageChecked": true
+  },
+  {
+    "name": "openai",
+    "origin": "complete isolated logo crop from official website source",
+    "source": "https://raw.githubusercontent.com/HKUDS/RAG-Anything/main/assets/rag_anything_framework.png",
+    "license": "brand identity; source repository MIT does not relicense third-party marks",
+    "modification": "isolated logo crop only"
+  },
+  {
+    "name": "deepseek",
+    "origin": "complete isolated logo crop from official website source",
+    "source": "https://raw.githubusercontent.com/HKUDS/RAG-Anything/main/assets/rag_anything_framework.png",
+    "license": "brand identity; source repository MIT does not relicense third-party marks",
+    "modification": "isolated logo crop only"
+  },
+  {
+    "name": "claude",
+    "origin": "complete isolated logo crop from official website source",
+    "source": "https://raw.githubusercontent.com/HKUDS/RAG-Anything/main/assets/rag_anything_framework.png",
+    "license": "brand identity; source repository MIT does not relicense third-party marks",
+    "modification": "isolated logo crop only"
+  },
+  {
+    "name": "openmoji-robot",
+    "origin": "previously verified website asset",
+    "page": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F916.svg",
+    "collection": "OpenMoji",
+    "license": "CC BY-SA 4.0",
+    "modification": "none; format conversion only",
+    "code": "1F916",
+    "url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F916.svg"
+  },
+  {
+    "name": "openmoji-picture",
+    "origin": "previously verified website asset",
+    "page": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F5BC.svg",
+    "collection": "OpenMoji",
+    "license": "CC BY-SA 4.0",
+    "modification": "none; format conversion only",
+    "code": "1F5BC",
+    "url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F5BC.svg"
+  },
+  {
+    "name": "rag-document-original",
+    "origin": "complete isolated reference crop",
+    "source": "https://github.com/HKUDS/RAG-Anything/blob/main/assets/rag_anything_framework.png",
+    "license": "MIT repository; source illustration credit retained",
+    "bounds_original": [
+      28,
+      10,
+      104,
+      105
+    ],
+    "modification": "isolated crop only",
+    "pageChecked": true
+  },
+  {
+    "name": "rag-query-original",
+    "origin": "complete isolated reference crop",
+    "source": "https://github.com/HKUDS/RAG-Anything/blob/main/assets/rag_anything_framework.png",
+    "license": "MIT repository; source illustration credit retained",
+    "bounds_original": [
+      1924,
+      60,
+      1970,
+      113
+    ],
+    "modification": "isolated crop only",
+    "pageChecked": true
+  },
+  {
+    "name": "rag-response-original",
+    "origin": "complete isolated reference crop",
+    "source": "https://github.com/HKUDS/RAG-Anything/blob/main/assets/rag_anything_framework.png",
+    "license": "MIT repository; source illustration credit retained",
+    "bounds_original": [
+      2408,
+      910,
+      2470,
+      981
+    ],
+    "modification": "isolated crop only",
+    "pageChecked": true
+  }
+]

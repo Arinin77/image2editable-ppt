@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image2EditablePPT"
+  short_description: "Rebuild images as editable PowerPoint diagrams"
+  default_prompt: "Use $image-to-editable-pptx to rebuild this image as an editable PowerPoint while preserving its content and visual structure."
