@@ -9,6 +9,8 @@ Use this reference when a source contains icons or illustrations that need extra
 3. Open the actual asset page and inspect the original asset. Search thumbnails alone do not establish the author, format, quality, or permitted use. Use available browser or web retrieval tools and permitted download routes.
 4. Evaluate the whole set at its intended size before committing it to the diagram. Use a small comparison sheet when a style decision materially affects the result; do not turn every icon into a separate approval step.
 
+Reuse a conceptual icon crop only if it remains clear and complete at the intended slide size. For a blurry, pixelated, or poorly cropped conceptual icon, prefer a suitable original or a high-quality replacement from an actual asset website within the accepted style. Prefer vector assets or sufficiently detailed raster originals; enlarging a screenshot does not restore missing detail.
+
 Gather the required semantic roles first and search related roles together. If style is ambiguous, ask about a representative pair or family, then apply the answer consistently. Keep verified files and source records in the task's working assets directory and reuse them for revisions. A download or an attractive search thumbnail alone is not a completed asset check.
 
 ## Selection criteria
@@ -17,6 +19,8 @@ Gather the required semantic roles first and search related roles together. If s
 - **Style:** match outline/fill treatment, stroke weight, corner shape, perspective, shading, detail density, and palette. Prefer coherent collections where suitable without sacrificing meaning to enforce one author.
 - **Legibility:** fine details that disappear at slide size do not help. Compare visible content, not only the image's rectangular dimensions.
 - **Identity:** do not replace a technical evidence image with a generic illustration or present a representative icon as the actual observation.
+
+Distinguish replaceable conceptual icons from evidence-bearing or identity-bearing imagery. Replace a conceptual icon only when its meaning is preserved; retain evidence and identity imagery or obtain a better version of the same source. Preserve readable source text, numbers, and labels within an asset, reconstructing them separately as native text when appropriate rather than dropping or rewriting them during replacement.
 
 ## Prepare assets without losing their identity
 

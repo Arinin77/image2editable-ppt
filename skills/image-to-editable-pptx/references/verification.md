@@ -12,6 +12,8 @@ Render with the intended presentation application when available; another compat
 
 Look for text overflow, font substitution, unintentional wrapping, clipping, occlusion, line crossings, disconnected arrowheads, uneven icon size, and loss of contrast. Preserve intentional source overlaps. Quantitative bounding-box checks can flag likely defects, but false positives occur around containers and layered artwork.
 
+Inspect bends and junctions for visible gaps, protruding caps, dark overlaps, and abrupt width changes. Check icons at their intended size and in enlarged detail for blur, pixelation, clipping, and inconsistent visual weight. Verify that vector assets remain vector in the exported file and that any raster fallback is a usable image at the intended size. Repair visible defects in the exported rendering before delivery.
+
 An in-memory authoring preview may differ from the exported PPTX. Inspect the export. If no renderer is available, report the output as pending visual verification.
 
 ## Editability
