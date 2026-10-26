@@ -23,7 +23,7 @@ Download this repository and ask Codex:
 
 Then attach an image and say:
 
-> Use $image-to-editable-pptx to rebuild this image as an editable PowerPoint. Keep the layout, wording and arrow meanings. Match the icon style and use suitable website assets where needed. Save a new PPTX.
+> Use $image-to-editable-pptx to rebuild this image as an editable PowerPoint. Keep the layout, wording and arrow meanings. Prioritize icons I explicitly supply or select; otherwise find semantically suitable, stylistically consistent icons on real asset websites. Save a new PPTX.
 
 Add a preferred font, a style reference or an icon website when you have one. [Manual installation and requirements →](docs/INSTALL.md)
 
@@ -31,10 +31,12 @@ Add a preferred font, a style reference or an icon website when you have one. [M
 
 - **Editable content:** change labels, numbers, colors and geometric shapes in PowerPoint.
 - **Meaningful structure:** modules, branches and feedback loops are reconstructed as native objects.
-- **Suitable icons:** reuse appropriate originals or search actual asset sites, with source records.
+- **Suitable icons:** prioritize your explicit icon choices; otherwise use real asset websites to find a coherent set, with source records.
 - **Rendered review:** inspect the exported deck, repair observed layout defects and check a representative edit.
 
-The workflow is **read the image → map its elements → obtain assets → rebuild the PPTX → render and check**. It preserves the supplied visual unless you request a redesign.
+An icon appearing in the source image is not automatically a request to retain it. Verified website assets can be reused. Brand marks use official assets or originals where available; photos, experimental results and data imagery retain their real content. Clear originals are preferred, faithful reconstruction needs reliable information, and complete crops or screenshots are valid fallbacks when better sources are unavailable.
+
+The workflow is **read the image → map its elements → obtain assets → rebuild the PPTX → render and check**. It preserves content, layout, visual hierarchy and overall style while selecting suitable icons; broader redesign requires your instruction.
 
 ## Examples
 

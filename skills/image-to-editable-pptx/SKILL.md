@@ -9,7 +9,7 @@ Reconstruct the supplied visual as a PowerPoint that can be edited meaningfully.
 
 Start from the user's image, not from an assumed subject area, template, palette, or presentation style. Preserve its content, logical relationships, visual hierarchy, and aspect ratio unless the user requests changes. A request to convert an image does not by itself request rewriting, translation, redesign, or extra slides.
 
-Use supplied style references and established preferences. When a meaningful choice remains unclear (for example, faithful icon reuse versus a different visual family), ask one focused question or show a small set of representative alternatives before doing the dependent work. Continue independent work while waiting. Do not require a style questionnaire for a clear image or separate approval for every icon; carry an accepted choice through the set.
+Use supplied style references and established preferences. When a meaningful choice remains unclear (for example, a choice between materially different icon families), ask one focused question or show a small set of representative alternatives before doing the dependent work. Continue independent work while waiting. Do not require a style questionnaire for a clear image or separate approval for every icon; carry an accepted choice through the set.
 
 ## Define what will be editable
 
@@ -40,9 +40,11 @@ Default to one input visual per slide with its original proportions. For multipl
 
 Read [references/visual-assets.md](references/visual-assets.md) when selecting or replacing icons and illustrations.
 
-Prefer suitable supplied originals or already verified local assets. When new external replacements are needed, search real asset websites and inspect actual asset pages and downloaded files. Match the concept first, then the reference's visual language and the rest of the set. Search and review related icons together; retain their files and provenance so later revisions only need searches for missing roles. Website choice and icon style are task-dependent; no provider, palette, or illustration style is mandatory.
+Prioritize icons the user explicitly supplies or selects for use. An icon merely appearing in the input image is not an instruction to preserve it. For other conceptual or functional icons, default to searching real asset websites for semantically appropriate, stylistically coherent assets, even when the source icon is clear enough to crop. Inspect actual asset pages and downloaded files. Match the concept first, then the reference's visual language and the rest of the set; no provider, palette, or illustration style is mandatory.
 
-Retain complex technical imagery where a generic icon would change its meaning. A complete crop of a self-contained image or icon can be appropriate; cropping should not absorb surrounding text, arrows, or whole modules that should be reconstructed. If no suitable asset is available, report the gap and use an authorized fallback rather than silently inventing one.
+Search related roles together and reuse suitable, previously verified website assets and their source records; later revisions only need searches for missing roles. Source crops of conceptual icons are a fallback when necessary, when no suitable asset can be obtained, or when the user requests preservation. State that fallback rather than silently presenting it as a website original or generating a substitute.
+
+For brand marks, prefer official high-quality assets or originals and preserve identity. For photographs, actual UI screenshots, experimental results, and scientific or data imagery, prefer clear originals; redraw only when reliable underlying data or unambiguous source information supports faithful reconstruction. If a better source is unavailable, choose a complete crop, screenshot, or original preservation without asking about every asset, and disclose material quality limits. Preserve real content; do not replace it with a generic illustration or invent missing details. Keep surrounding editable text, arrows, and modules separate.
 
 ## Build native structure
 

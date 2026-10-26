@@ -4,14 +4,18 @@ Use this reference when a source contains icons or illustrations that need extra
 
 ## Choose the right source
 
-1. Inspect user-provided originals first. Exact logos, UI screenshots, photographs, microscopy, maps, and other evidence-bearing imagery usually should retain their identity.
-2. Reuse suitable supplied or previously verified assets before searching. For conceptual icons needing new external assets, search by meaning plus style. Provider options include Iconfont, Flaticon, Icons8, Material Symbols, official brand resources, and specialist collections; these are examples, not a mandatory search order. Honor a user-specified source.
-3. Open the actual asset page and inspect the original asset. Search thumbnails alone do not establish the author, format, quality, or permitted use. Use available browser or web retrieval tools and permitted download routes.
-4. Evaluate the whole set at its intended size before committing it to the diagram. Use a small comparison sheet when a style decision materially affects the result; do not turn every icon into a separate approval step.
+Choose by asset type, not by how easy it is to crop from the source:
 
-Reuse a conceptual icon crop only if it remains clear and complete at the intended slide size. For a blurry, pixelated, or poorly cropped conceptual icon, prefer a suitable original or a high-quality replacement from an actual asset website within the accepted style. Prefer vector assets or sufficiently detailed raster originals; enlarging a screenshot does not restore missing detail.
+1. **Explicit user choices:** prioritize icons the user supplies or selects for use, and honor instructions to preserve particular assets. An icon visible in the input image alone is not an explicit choice. Flag material quality or meaning problems with a chosen asset instead of silently replacing it.
+2. **Conceptual and functional icons:** default to real asset websites, searching by meaning plus style, even if the source icon is clear and croppable. Prefer coherent collections where they fit the concepts. Reuse suitable, previously verified website assets with their source records; do not search again just because a new revision starts. Provider options include Iconfont, Flaticon, Icons8, Material Symbols, and specialist collections; these are examples, not a mandatory search order. Honor a user-specified source.
+3. **Brand marks and logos:** prefer official high-quality assets or original files over screenshot crops. Preserve the correct identity and proportions; do not restyle a brand into a generic icon to match the set.
+4. **Real or evidence-bearing imagery:** prefer clear originals for photographs, actual UI screenshots, experimental results, scientific images, and data plots. Faithful reconstruction is appropriate only when reliable data or unambiguous source information supports it. If a better source is unavailable, choose a complete crop, screenshot, or original preservation without per-asset approval; retain real content and disclose material quality limits. Do not guess hidden values, fabricate missing details, or substitute a generic illustration.
 
-Gather the required semantic roles first and search related roles together. If style is ambiguous, ask about a representative pair or family, then apply the answer consistently. Keep verified files and source records in the task's working assets directory and reuse them for revisions. A download or an attractive search thumbnail alone is not a completed asset check.
+For conceptual icons, use a source crop only when necessary, when no suitable asset can be obtained (including unavailable web access), or when the user requests preservation. Keep the icon complete and legible, exclude surrounding text and connectors, and record the fallback. Prefer vector assets or sufficiently detailed raster originals; enlarging a screenshot does not restore missing detail. If the fallback cannot preserve meaning or meet required quality, state the unresolved gap and ask a focused question rather than inventing an asset.
+
+Gather the required semantic roles first and search related roles together. Open the actual asset page and inspect the downloaded original: search thumbnails alone do not establish author, format, quality, or permitted use. Use available browser or web retrieval tools and permitted download routes. Keep verified files and source records in the task's working assets directory and reuse them for revisions.
+
+Evaluate the set at its intended size. If style is materially ambiguous, ask about a representative pair or family or use the user's reference, then apply that choice consistently. A small comparison sheet can help; do not turn every icon into a separate approval step. A download or an attractive search thumbnail alone is not a completed asset check.
 
 ## Selection criteria
 
@@ -20,7 +24,7 @@ Gather the required semantic roles first and search related roles together. If s
 - **Legibility:** fine details that disappear at slide size do not help. Compare visible content, not only the image's rectangular dimensions.
 - **Identity:** do not replace a technical evidence image with a generic illustration or present a representative icon as the actual observation.
 
-Distinguish replaceable conceptual icons from evidence-bearing or identity-bearing imagery. Replace a conceptual icon only when its meaning is preserved; retain evidence and identity imagery or obtain a better version of the same source. Preserve readable source text, numbers, and labels within an asset, reconstructing them separately as native text when appropriate rather than dropping or rewriting them during replacement.
+Replace a conceptual icon only when its meaning is preserved. For evidence-bearing or identity-bearing imagery, a better original, faithful reconstruction, or crop must retain the source's actual information and identity. Preserve readable source text, numbers, and labels within an asset, reconstructing them separately as native text when appropriate rather than dropping or rewriting them during replacement.
 
 ## Prepare assets without losing their identity
 

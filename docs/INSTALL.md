@@ -4,7 +4,7 @@
 
 - An agent host that can load a `SKILL.md` directory and view the supplied image.
 - A PPTX authoring tool or library, plus an available presentation renderer.
-- Web access when new website assets are required.
+- Web access for the default conceptual-icon search; suitable user-selected or previously verified website assets can be reused without searching again.
 - Python 3 only if using the optional inspection helper; it has no third-party dependencies.
 
 The skill does not install a renderer, fonts or an authoring library. It uses the host's available tools and follows that environment's requirements. Microsoft PowerPoint is one supported rendering path; other compatible renderers need their own output checks.
@@ -53,9 +53,11 @@ If your existing installation is already discovered from another configured dire
 
 Attach a complete, readable source image. In Codex, explicitly mention `$image-to-editable-pptx`, or select the skill in the host's skill picker. Example:
 
-> Rebuild this image as an editable PPTX. Keep its text, layout and arrow meanings. Preserve suitable original icons; use website replacements only where needed. Save the new PPTX separately from the input.
+> Rebuild this image as an editable PPTX. Keep its text, layout and arrow meanings. Prioritize icons I explicitly supply or select; otherwise find semantically suitable, stylistically consistent icons on real asset websites. Save the new PPTX separately from the input.
 
 Add a style reference or preferred icon source when you have one. If the source is incomplete or a choice would change its meaning, the skill asks a focused question. It does not require a questionnaire for a clear source.
+
+Icons merely appearing in the source image are not explicit user choices. Brand marks prefer official assets or originals. Photos, actual UI screenshots, experimental results and data imagery preserve real content: use clear originals or faithful reconstruction supported by reliable information; if better sources are unavailable, the agent may choose a complete crop, screenshot or original preservation without per-asset approval. Conceptual-icon crops are a disclosed fallback when necessary or no suitable website asset can be obtained, rather than the default.
 
 Open the result in your target presentation application. Check a text label, a shape, an arrow and an independent icon. Pictures are replaceable objects, not necessarily editable vector strokes.
 
@@ -63,8 +65,10 @@ Open the result in your target presentation application. Check a text label, a s
 
 1. 下载仓库，复制完整的 `skills/image-to-editable-pptx` 文件夹，不能只复制 `SKILL.md`。
 2. 可让 Codex 安装；手动安装时选一个技能目录即可。已有同名技能先核对，避免重复安装。
-3. 附上清晰完整的图片，输入“请用 `$image-to-editable-pptx` 重建为可编辑 PPT”，可补充风格参考与图标来源偏好。
+3. 附上清晰完整的图片，输入“请用 `$image-to-editable-pptx` 重建为可编辑 PPT”，可补充风格参考与图标来源偏好。用户明确提供或指定的图标优先；其他概念图标默认去真实网站找语义合适、风格统一的素材，可复用已核验的网站素材。
 4. 宿主需要图片查看、PPTX 构建和渲染工具；技能本身不会自动安装这些环境。
 5. 打开导出的 PPTX 检查文字、形状、箭头和图标。可选检查脚本需要 Python 3 标准库，不需要额外 Python 包。
+
+原图里出现的图标不等于用户指定保留。品牌标识优先找官方素材或原件；照片、真实界面、实验图和数据图优先找清晰原件，有可靠信息时可准确重画，无法取得更好来源时可自行选择完整裁切、截图或保留，无需逐个询问。普通概念图标的裁切只作必要或找不到合适网站素材时的回退，并说明来源。
 
 This repository distributes the standalone skill. Marketplace submission or plugin installation is not required to inspect these examples or load the skill locally.
