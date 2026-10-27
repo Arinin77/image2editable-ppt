@@ -1,0 +1,169 @@
+[
+  {
+    "role": "robot",
+    "code": "1F916",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F916.svg",
+    "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F916.svg",
+    "creator": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+    "license": "CC BY-SA 4.0",
+    "modification": "None; raster format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "8da1ffe312bfb340a5768bc6ba7334c5fc6026a4969a1154fadf15f4c6a7371f",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image2.png",
+      "ppt/media/image15.png",
+      "ppt/media/image16.png",
+      "ppt/media/image18.png"
+    ]
+  },
+  {
+    "role": "reflector",
+    "code": "1F4AC",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4AC.svg",
+    "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F4AC.svg",
+    "creator": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+    "license": "CC BY-SA 4.0",
+    "modification": "None; raster format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "f03d2da39b91b3715cc6c69d86e1c28cc9c187c0c958516cbe7ac888671efc4f",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image.png"
+    ]
+  },
+  {
+    "role": "toolbox",
+    "code": "1F9F0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9F0.svg",
+    "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F9F0.svg",
+    "creator": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+    "license": "CC BY-SA 4.0",
+    "modification": "None; raster format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "4fcadef6155e9cf1b407a5bb1906fbfa6fa00fd0e3bd60f51d9a47ee57a39f50",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image8.png",
+      "ppt/media/image17.png",
+      "ppt/media/image19.png"
+    ]
+  },
+  {
+    "role": "think",
+    "code": "1F4A1",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4A1.svg",
+    "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F4A1.svg",
+    "creator": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+    "license": "CC BY-SA 4.0",
+    "modification": "None; raster format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "18ffdd59b52108e45dbb28614cfe43db654389365d9d8d5917a2110bb7a8e0c2",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image6.png",
+      "ppt/media/image9.png",
+      "ppt/media/image21.png",
+      "ppt/media/image23.png"
+    ]
+  },
+  {
+    "role": "memory",
+    "code": "1F9E0",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F9E0.svg",
+    "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F9E0.svg",
+    "creator": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+    "license": "CC BY-SA 4.0",
+    "modification": "None; raster format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "d6ce4ecb48f710ee37a5e670327fc11bf1792874050079300003eb668e82d5de",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image13.png",
+      "ppt/media/image14.png"
+    ]
+  },
+  {
+    "role": "medrag",
+    "code": "1F4D6",
+    "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/svg/1F4D6.svg",
+    "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F4D6.svg",
+    "creator": "OpenMoji contributors / HfG Schwäbisch Gmünd",
+    "license": "CC BY-SA 4.0",
+    "modification": "None; raster format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "05ec806c86cda0fa3d3b0f2468aa89e8e9aee1709d8ec04f6b6370fac6808820",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image3.png",
+      "ppt/media/image5.png",
+      "ppt/media/image20.png",
+      "ppt/media/image22.png"
+    ]
+  },
+  {
+    "role": "calculator",
+    "source_url": "https://pictogrammers.com/library/mdi/icon/calculator-variant-outline/",
+    "download_url": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/calculator-variant-outline.svg",
+    "creator": "Pictogrammers / Material Design Icons contributors",
+    "license": "Apache 2.0",
+    "modification": "SVG-to-PNG conversion; transparent exterior padding cropped; geometry and color unchanged",
+    "origin": "Website original",
+    "meaning_checked": true,
+    "style_checked": true,
+    "source_page_checked": true,
+    "sha256": "6befa3751d5ea94eabe18863ae66fbd8e9bb217f08492ce24dde2c53757f17cd",
+    "embedded_pptx_parts": [
+      "ppt/media/image10.png"
+    ]
+  },
+  {
+    "role": "umls",
+    "source_url": "https://pictogrammers.com/library/mdi/icon/graph-outline/",
+    "download_url": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/graph-outline.svg",
+    "creator": "Pictogrammers / Material Design Icons contributors",
+    "license": "Apache 2.0",
+    "modification": "None; SVG-to-PNG format conversion only; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Website original",
+    "meaning_note": "Generic graph symbol represents UMLS semantic/ontology relationships; not an official UMLS brand logo",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "0517869b952fea2b014b8dd4114d4ec284d5508eac497b31b82fc861d790cb6e",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image4.png",
+      "ppt/media/image7.png",
+      "ppt/media/image12.png"
+    ]
+  },
+  {
+    "role": "bing",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bing_logo_(2016).svg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bing_logo_%282016%29.svg",
+    "creator": "Microsoft Corporation; SVG optimized by VulcanSphere",
+    "license": "Public-domain simple text/geometric logo per Commons; trademark identity retained",
+    "modification": "Isolated the original b-symbol path from downloaded original SVG; preserved path geometry, fill and aspect ratio; no redrawing. Full source retained as assets/bing-full.svg. PNG conversion only thereafter.; transparent exterior padding cropped; artwork unchanged",
+    "origin": "Original brand artwork obtained from established archive",
+    "official_reference": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Bing_Trademark_Guidelines_2024.pdf",
+    "meaning_note": "Historic 2016-2020 Bing mark matches source figure; not presented as the current Microsoft Bing logo",
+    "meaning_checked": true,
+    "style_checked": true,
+    "sha256": "9d33d7789e316896d398e15ab1189b071b01075e6648017c602cdfb2c451e064",
+    "source_page_checked": true,
+    "embedded_pptx_parts": [
+      "ppt/media/image11.png"
+    ]
+  }
+]

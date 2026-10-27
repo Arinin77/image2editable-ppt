@@ -44,14 +44,33 @@ The workflow is **read the image → map its elements → obtain assets → rebu
 | --- | --- | --- |
 | **RAG-Anything** | Dense architecture, graph relationships, nested regions and mixed icon styles | [Before / after](examples/rag-anything/comparison.png) · [PPTX](examples/rag-anything/editable.pptx) · [Source](examples/rag-anything/SOURCE.md) |
 | **Semantic communication** | Rich icons, paragraph text, branches and environmental feedback | [Before / after](examples/semantic-communication/comparison.png) · [PPTX](examples/semantic-communication/editable.pptx) · [Source](examples/semantic-communication/SOURCE.md) |
+| **ReflecTool** | Dense text, highlights, wide arrow bands and curved branches | [Before / after](examples/reflectool/comparison.png) · [PPTX](examples/reflectool/editable.pptx) · [Source](examples/reflectool/SOURCE.md) |
 | **GoAgentNet** | Layered multi-agent architecture; local reconstruction available for review | [Original source and availability](examples/goagentnet/SOURCE.md) |
 
-<details>
-<summary>Semantic communication: source and reconstruction</summary>
+### Semantic communication
+
+Rich icons, paragraph text and feedback links, rebuilt as editable structure.
 
 ![Semantic communication comparison](examples/semantic-communication/comparison.png)
 
-Source: Tang et al., *Retrieval-augmented Generation for GenAI-enabled Semantic Communications*. [Credits and changes](examples/semantic-communication/SOURCE.md)
+*Source: Tang et al., Retrieval-augmented Generation for GenAI-enabled Semantic Communications. [Credits and changes](examples/semantic-communication/SOURCE.md).*  
+**[Download the editable PPTX](examples/semantic-communication/editable.pptx)**
+
+### ReflecTool
+
+Dense text, highlights, wide arrow bands and curved branches, rebuilt as editable elements.
+
+![ReflecTool: source image and editable PowerPoint reconstruction](examples/reflectool/comparison.png)
+
+*Source: Liao et al., [ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://aclanthology.org/2025.acl-long.663/), ACL 2025, Figure 2. [Credits and changes](examples/reflectool/SOURCE.md).*  
+**[Download the editable PPTX](examples/reflectool/editable.pptx)**
+
+<details>
+<summary>Close-up: verification loops and candidate branches</summary>
+
+![ReflecTool verification detail: source and reconstruction](examples/reflectool/detail.png)
+
+Iterative refinement and candidate selection. Left: source image. Right: exported PowerPoint render.
 
 </details>
 

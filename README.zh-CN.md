@@ -44,14 +44,33 @@
 | --- | --- | --- |
 | **RAG-Anything** | 密集架构、图节点与边、多层区域、混合图标 | [对照图](examples/rag-anything/comparison.png) · [PPTX](examples/rag-anything/editable.pptx) · [来源](examples/rag-anything/SOURCE.md) |
 | **知识感知通信** | 多种图标、较多文字、流程分支和回流 | [对照图](examples/semantic-communication/comparison.png) · [PPTX](examples/semantic-communication/editable.pptx) · [来源](examples/semantic-communication/SOURCE.md) |
+| **ReflecTool** | 密集文字、高亮、粗色带箭头和曲线分支 | [对照图](examples/reflectool/comparison.png) · [PPTX](examples/reflectool/editable.pptx) · [来源](examples/reflectool/SOURCE.md) |
 | **GoAgentNet** | 多层多智能体架构；重建产物在独立本地审核包 | [原图来源与可用范围](examples/goagentnet/SOURCE.md) |
 
-<details>
-<summary>展开知识感知通信对照图</summary>
+### 知识感知通信
+
+将丰富图标、段落文字和反馈连线重建为可编辑结构。
 
 ![知识感知通信原图与重建效果](examples/semantic-communication/comparison.png)
 
-原图：Tang 等，*Retrieval-augmented Generation for GenAI-enabled Semantic Communications*。[署名与修改说明](examples/semantic-communication/SOURCE.md)
+*原图：Tang 等，Retrieval-augmented Generation for GenAI-enabled Semantic Communications。[署名与修改说明](examples/semantic-communication/SOURCE.md)。*  
+**[下载可编辑 PPTX](examples/semantic-communication/editable.pptx)**
+
+### ReflecTool
+
+将密集文字、高亮、粗色带箭头和曲线分支重建为可编辑元素。
+
+![ReflecTool 原图与可编辑 PPT 对照](examples/reflectool/comparison.png)
+
+*原图：Liao 等，[ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://aclanthology.org/2025.acl-long.663/)，ACL 2025，图 2。[署名与修改说明](examples/reflectool/SOURCE.md)。*  
+**[下载可编辑 PPTX](examples/reflectool/editable.pptx)**
+
+<details>
+<summary>局部对照：验证回路与候选分支</summary>
+
+![ReflecTool 验证区域原图与重建效果](examples/reflectool/detail.png)
+
+迭代细化与候选选择。左为原图，右为 PowerPoint 导出效果。
 
 </details>
 
